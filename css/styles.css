@@ -1,0 +1,49 @@
+/* Stylesheet */
+
+body {
+	font-family: 'Alef', sans-serif;
+}
+
+/* Nav */
+ul.mainnav {
+	float: right;
+	list-style: none;
+	margin: 120px 0 0 0;
+}
+
+ul.mainnav li {
+	float: left;
+	margin-right: 40px;
+}
+
+ul.mainnav li a {
+	margin: 0 0 20px 0;
+	text-decoration: none;
+}
+
+/* Content */
+
+h3 {
+	color: #996;
+	font-style: bold;
+}
+
+.sidenav {
+	list-style: none;
+	margin: 50px;
+}
+
+.sidenav li a {
+	text-decoration: none;
+}
+
+.aside-img {
+	margin: 10px;
+}
+
+/* Footer */
+
+.footer {
+	margin: 50px 0 0 0;
+	
+}
